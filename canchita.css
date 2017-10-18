@@ -1,0 +1,46 @@
+.cancha{
+	background-color: #76D281;
+	height: 500px;
+	width: 900px;
+	border: 1px solid transparent;
+	position: relative;
+}
+.borde{
+	height: 440px;
+	width: 840px;
+	border: 5px solid white;
+	position: absolute;
+	bottom: 25px;
+	left: 25px;
+}
+.arco1{
+	height: 200px;
+	width: 125px;
+	border: 5px solid white;
+	position: absolute;
+	bottom: 155px;
+	left: 25px;
+}
+.arco2{
+	height: 200px;
+	width: 125px;
+	border: 5px solid white;
+	position: absolute;
+	bottom: 155px;
+	right: 25px;
+}
+.centro{
+	height: 200px;
+	width: 200px;
+	border-radius: 100px;
+	border: 5px solid white;
+	position: absolute;
+	bottom: 155px;
+	left: 350px;
+}
+.fa-futbol-o{
+	font-size: 30px;
+	position: absolute;
+	bottom: 290px;
+	left: 150px;
+}
